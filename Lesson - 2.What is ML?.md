@@ -24,10 +24,10 @@ Answers + Data = Machine Learning
    - Recommendations
 
 ## Examples of Machine Learning 
--Automating recognition of disease
--Recommend next best actions for individual care plans 
--Enabling personalized, real-time banking experience with chatbots
--Identify the next best action for customers
--Capture, prioritize abd route service requests to correct employee to improve response times
+- Automating recognition of disease
+- Recommend next best actions for individual care plans 
+- Enabling personalized, real-time banking experience with chatbots
+- Identify the next best action for customers
+- Capture, prioritize abd route service requests to correct employee to improve response times
 
 
