@@ -8,6 +8,8 @@
 4. Azure Machine Learning 
 5. **Responsible AI**, Model Fairness, Transparency and Explainability
 
+ ![relation between Deep Learning, Machine Learning and Artificial Intelligence](images/image.png)
+
 ## Benefits of Machine Learning 
 - ML helps in advance and critically important fields like medicine, transportation, space travel, agriculture, cybersecurity and many more
 - The trends in computing power availability, moving closer to silicon, public cloud HW resources concentation will continue to accelerate in the next decade
