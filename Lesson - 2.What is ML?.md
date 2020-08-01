@@ -2,9 +2,10 @@
 
 ## Machine Learning 
 Data science technique used to extract patterns from data, allowing computers to identify related data and forecast future outcomes, behaviours and trends.
-
+```
 *Rules   + Data = Traditional Programming*      
 *Answers + Data = Machine Learning*
+```
 
 ## Applications of Machine Learning 
 1. Natural Language Processing 
