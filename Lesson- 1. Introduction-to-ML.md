@@ -1,7 +1,7 @@
 # Lesson – 1. Introduction to Machine Learning on Azure
 
 ## Basics of Machine Learning 
-![major topics of ML](images/image.png)
+![major topics of ML](images/img1.PNG)
 
 ## Benefits of Machine Learning 
-![benefits of ML](images/benefits of ML.PNG)
+![benefits of ML](images/image.png)
