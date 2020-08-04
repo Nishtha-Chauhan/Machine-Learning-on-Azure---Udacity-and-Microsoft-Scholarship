@@ -5,7 +5,7 @@ This repository consists of my learning from the course along with some major to
 Resources are provided for the following - 
 1. [Introduction to Machine Learning](Lesson-1.Introduction-to-ML.md)
 2. [Principles of Machine Learning](Lesson-2.What-is-ML?.md) 
-3. Model Training 
+3. [Model Training](Lesson-3.Model-Training.md) 
 4. Supervised and Unsupervised Learning
 5. Applications of Machine Learning
 6. Managed services for Machine Learning 
