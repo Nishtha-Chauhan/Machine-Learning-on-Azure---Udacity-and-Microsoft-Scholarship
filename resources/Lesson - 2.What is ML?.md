@@ -108,15 +108,81 @@ Services that offers data storage/computing power over internet
 
 
 ## Linear Regression
+- It simplifies the target function Y to a line
+- Formula for Simple Linear Regression: 
+```
+Y = B0 + B1 x X
+```
+- Preparing data depends on:
+1. Linear Assumption 
+2. Removes noise
+3. Removes collinearity 
+4. Gaussian/Normal Distribution
+5. Rescale inputs
+```
+B1 = sum((xi-mean(x)) * (yi-mean(y))) / sum((xi – mean(x))^2)
+B0 = mean(y) – B1 * mean(x)
+RMSE = sqrt(sum((pi – yi)^2)/n)
+```
+**The process of finding the best model is a process of finding the coefficients and bias that minimizes the error. *Cost Function* is used for calculating the error** 
 
 
+## Learning Function
+**Goal**: To learn a useful transformation of input data that gets one closer to the expected output
+```
+Y = f(x)
+where: e is called the irreducible error, caused by data collection process when one does not have enough data 
+```
 
 
+## Parametric and Non-Parametric 
+**Parametric**: It simplifies the mapping to a known functional form.*Example*: Linear Regression. *Features* -
+- Simpler to understand
+- Faster to learn from data
+- Less training 
+- Highly constrained
+- Limited complexity
+- Poor fit
+
+**Non-Parametric**: Not making assumptions regarding the form of mapping between input and output data. *Example*: KNN Algorithm. *Features* -
+-  High flexibility
+- Power by making weak assumptions on underlying functions
+- High performance
+- More training data
+- Slower to train
+- Overfitting training data is a risk
 
 
+## Machine Learning v/s Deep Learning 
+![Classical ML and AI](/images/img3.PNG)
+ Features | Machine Learning | Deep Learning  
+--------- | ---------------- | -------------   
+**Advantages** | Suitable for higher complexity problems | More suitable for small data
+-| Better accuracy | Easier to interpret outcomes
+-| Better support for big data | Cheaper to perform 
+-| Complex features can be learned | Can run on low-end machines and don't require larger computational power
+**Disadvantages**| Difficult to explain trained data | Difficult to learn large datasets 
+-| Requires sufficient computational power | Requires feature engineering and difficult to learn complex functions
 
 
+## Trade-Offs
+1. **Bias**: It measures how inaccurate the model prediction is in comparison with the true output. High model complexity has ----> low bias
+
+**Variance**: It measures how much target function will change if different training data is used, caused by modelling random noise in training data. High model training has ----> high variance
+
+**High Bias and Low Variance - Parametric and Linear Algorithm**
+```
+Prediction Error = Bias Error + Variance Error + Irreducible Error 
+```
+
+2. **Overfitting**: It refers to the situation in which models fit training data very well but, fail to generalize to new data. **K - Fold cross Validation** is used as a solution to reduce overfitting.
+
+**Underfitting**: It refers to the situation in which models neither fit training data nor generalize to new data
 
 
-
-
+## Optimal Model Complexity 
+Bias error crosses with variance error
+Model performance new data\Model performance on training data | Poor | Good  
+------------------------------------------------------------- | ---- | ----  
+Poor | Underfitting | Overfitting
+Good | Very unlikely| Optimal
