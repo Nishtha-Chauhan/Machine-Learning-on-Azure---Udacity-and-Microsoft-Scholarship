@@ -39,7 +39,7 @@ It is used to drive new features based on values of existing features. It improv
    - Improves model accuracy
    - More approiate features for some algorithms
 - *Reasons for feature engineering*
-   - 
+   - Elimination of
    
    
    
