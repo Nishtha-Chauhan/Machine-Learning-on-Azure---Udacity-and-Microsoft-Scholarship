@@ -172,8 +172,9 @@ where: e is called the irreducible error, caused by data collection process when
 
 **High Bias and Low Variance - Parametric and Linear Algorithm**
 ```
-Prediction Error = Bias Error + Variance Error + Irreducible Error 
+Prediction Error = Bias Error + Variance Error + Irreducible Error (or)
 ```
+![relation between bias and variance](/images/img4.PNG)
 
 2. **Overfitting**: It refers to the situation in which models fit training data very well but, fail to generalize to new data. **K - Fold cross Validation** is used as a solution to reduce overfitting.
 
