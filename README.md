@@ -6,7 +6,7 @@ Resources are provided for the following -
 1. [Introduction to Machine Learning](/resources/Lesson-1.Introduction-to-ML.md)
 2. [Principles of Machine Learning](/resources/Lesson-2.What-is-ML?.md) 
 3. [Model Training](/resources/Lesson-3.Model-Training.md) 
-4. Supervised and Unsupervised Learning
+4. [Supervised and Unsupervised Learning](resources/Lesson-4.Supervised-and-Unsupervised-Learning.md)
 5. Applications of Machine Learning
 6. Managed services for Machine Learning 
 7. Responsible AI
