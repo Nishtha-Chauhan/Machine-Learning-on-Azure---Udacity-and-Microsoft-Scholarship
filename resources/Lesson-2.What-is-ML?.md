@@ -154,7 +154,6 @@ where: e is called the irreducible error, caused by data collection process when
 
 
 ## Machine Learning v/s Deep Learning 
-![Classical ML and AI](/images/img3.PNG)
  Features | Machine Learning | Deep Learning  
 --------- | ---------------- | -------------   
 **Advantages** | Suitable for higher complexity problems | More suitable for small data
@@ -163,6 +162,8 @@ where: e is called the irreducible error, caused by data collection process when
 -| Complex features can be learned | Can run on low-end machines and don't require larger computational power
 **Disadvantages**| Difficult to explain trained data | Difficult to learn large datasets 
 -| Requires sufficient computational power | Requires feature engineering and difficult to learn complex functions
+
+![Classical ML and AI](/images/img3.PNG)
 
 
 ## Trade-Offs
