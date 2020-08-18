@@ -8,11 +8,15 @@
 
 ## Difference between Convolutional Machine Learning Approach and Managed Service Approach
 **Convolutional Machine Learning Approach** -
-- 
-- 
-- 
+- Lengthy installation and setup process
+- Expertise to configure network
+- Fair amount of troubleshooting
 
 **Managed Service Approach** - 
-- 
-- 
+- Very little setup
+- Easy configuration for any needed hardware
+
+
+## Compute Resources
+
 
