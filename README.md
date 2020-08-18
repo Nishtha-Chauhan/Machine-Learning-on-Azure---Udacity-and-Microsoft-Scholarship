@@ -8,8 +8,8 @@ Resources are provided for the following -
 3. [Model Training](/resources/Lesson-3.Model-Training.md) 
 4. [Supervised and Unsupervised Learning](resources/Lesson-4.Supervised-and-Unsupervised-Learning.md)
 5. [Applications of Machine Learning](resources/Lesson-5.Applications-of-Machine-Learning.md)
-6. Managed services for Machine Learning 
-7. Responsible AI
+6. [Managed services for Machine Learning](resources/Lesson-6.Managed-Services-for-Machine-Learning.md)
+7. [Responsible AI](resources/Lesson-7.Responsible-Artificial-Intelligence.md)
 
 
 ## Libraries used in Machine Learning 
