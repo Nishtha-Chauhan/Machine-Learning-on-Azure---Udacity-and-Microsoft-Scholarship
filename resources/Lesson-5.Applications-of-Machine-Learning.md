@@ -42,6 +42,7 @@ A variation of this approach where supervision form is weakened from an exact me
 **Text Embedding**: It requires text to be translated in some kind of numerical representation. Types - 
 1. Word Embedding and Sentence Embedding
 2. Scoring 
+
 ![classification from text](/images/img19.PNG)
 
 
@@ -59,8 +60,11 @@ Also called as representation learning, it is a part of feature engineering used
 *Applications* - 
 1. Image Classification
 2. Image Search
+
 ![image classification with CNN](/images/img17.PNG)
+
 3. Feature Embedding
+
 ![image search with autoencoders](/images/img18.PNG)
 
 
@@ -80,6 +84,7 @@ It is concerned with finding the data points that deviate significantly from the
 3. Intrusion Detection
 4. Anti-malware Protection
 5. Data Preparation
+
 ![anomaly detection in machinery maintenance](/images/img14.PNG)
 
 
@@ -90,4 +95,5 @@ It deals with the sets which can be ordered in time and it takes the numerical v
 - Prophet
 - Forecast Temporal Convolution Network
 - recurrent Neural Network(RNN)
+
 ![forecasting](/images/img16.PNG)
