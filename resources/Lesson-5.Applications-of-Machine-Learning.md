@@ -22,6 +22,7 @@ Deep Learning Algorithms are a special case of ML algorithms and have the capabi
 7. Capable of reaching on-par performance with certain human activities
 
 *Applications* - 
+
 ![deep learning applications](/images/img15.PNG)
 
 
