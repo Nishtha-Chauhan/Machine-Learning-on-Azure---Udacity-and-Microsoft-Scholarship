@@ -89,11 +89,11 @@ It is concerned with finding the data points that deviate significantly from the
 
 
 ## Forecasting
-It deals with the sets which can be ordered in time and it takes the numerical values as the main ones, others are taken to train the model. Algorithms - 
+It deals with the sets which can be ordered in time and it takes the numerical values as the main ones, others are taken to train the model. *Algorithms* - 
 - Auto Regression Integrated Moving Average(ARIMA)
 - Multi-variate regression
 - Prophet
 - Forecast Temporal Convolution Network
-- recurrent Neural Network(RNN)
+- Recurrent Neural Network(RNN)
 
 ![forecasting](/images/img16.PNG)
