@@ -6,8 +6,8 @@
 3. Notebook Environment
 
 
-## Difference between Convolutional Machine Learning Approach and Managed Service Approach
-**Convolutional Machine Learning Approach** -
+## Difference between Conventional Machine Learning Approach and Managed Service Approach
+**Conventional Machine Learning Approach** -
 - Lengthy installation and setup process
 - Expertise to configure network
 - Fair amount of troubleshooting
