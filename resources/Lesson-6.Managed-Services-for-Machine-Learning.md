@@ -41,7 +41,7 @@ They are used for training and batch inferencing
 - Real time 
 - Batch
 
-- *STEPS involved*:
+*STEPS involved*:
    - After one has trained ones model, its ready to put to work 
    - 
    - 
