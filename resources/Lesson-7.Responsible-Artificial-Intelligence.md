@@ -34,7 +34,7 @@
 *Transparency* and *Accountability* ensure effectiveness of other principles
 
 
-## Explainability in Aazure Machine Learning
+## Explainability in Azure Machine Learning
 - Direct Explainer 
   - Model Specific
     - SHAP Tree Explainer  
