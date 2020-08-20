@@ -7,7 +7,7 @@
 **Two essential aspects of ML models that impact responsible Artificial Intelligence - Transparency and Explainability**
 
 
-## Worries about responsible AI
+## Worries about Responsible AI
 1. Increasing Inequality
 2. Weaponization
 3. Unintentional Bias
@@ -38,12 +38,18 @@
 - Direct Explainer 
   - Model Specific
     - SHAP Tree Explainer  
-    - 
+    - SHAP Deep
   - Model Agnostic
-    - 
-    - 
+    - Mimic Explainer
+    - SHAP Kernel Explainer
+    
+- Meta Explainer
+  - Tabular Explainer
+  - Text Explainer
+  - Image Explainer
 
 ![spectrum of model explainability](/images/img33.PNG)
 
 
-
+## Model Fairness
+*Fair Learn Toolkit* is used to identify and mitigate unfairness in ML model
