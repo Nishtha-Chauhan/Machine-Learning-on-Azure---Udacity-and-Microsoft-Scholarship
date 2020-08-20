@@ -19,7 +19,7 @@
 
 
 ## Compute Resources
-Compute Target is a designated compute resource/environment where one run training scripts/host ones services deployment. Two types - 
+Compute Target is a designated compute resource/environment where one runs training scripts/host ones services deployment. Two types - 
 1. Training Compute Target
 2. Inferencing Compute Targets
 
