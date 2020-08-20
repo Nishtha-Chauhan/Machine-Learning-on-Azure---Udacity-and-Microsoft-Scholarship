@@ -42,10 +42,32 @@ They are used for training and batch inferencing
 - Batch
 
 *STEPS involved*:
-   - After one has trained ones model, its ready to put to work 
-   - 
-   - 
+   1. After one has trained ones model, its ready to put to work, deploy it to web hosting environment/IoT devices
+   2. When one uses a model, it infers things about new data it is given based on its training
+   3. *Examples*: Inferencing Cluster, Batch Inferencing
 
+
+## Notebooks 
+- It is made up of one or more cells that allow for the execution of code snippets/commands within those cells
+- They store commands and the results of running those commands
+![notebook paradigm](/images/img21.PNG)
+
+
+## Basic Modelling
+1. *Experiment*: Generic content for handling runs
+2. *Runs*: Used to build the trained model
+3. *Model Registry*: Once the model is trained, it keeps a track of all the models in an Azure ML Environment 
+4. *Models*:
+   - Run is used to produce a model
+   - It's a piece of code that takes an input and produces output
+   - Training is an "iterative process" 
+   ```
+   Model = Algorithm + Data + Hyperparameters
+   ```
+   - They are identified by name and version
+   
+   
+## Advanced Modelling
 
 
 
